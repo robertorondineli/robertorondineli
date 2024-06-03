@@ -38,13 +38,13 @@ const updateReadme = async () => {
 
 Olá, eu sou Roberto Rondineli, desenvolvedor backend.
 
-## Estatísticas do GitHub
+## Estatísticas do  meu GitHub
 
 - **Repositórios Públicos:** ${stats.public_repos}
 - **Seguidores:** ${stats.followers}
 - **Estrelas:** ${stats.stars}
 
-## Linguagens Utilizadas
+## Linguagens que Utilizo
 
 ${stats.languageIcons}
   `;
