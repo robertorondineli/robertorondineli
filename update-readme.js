@@ -20,13 +20,13 @@ const fetchGitHubStats = async () => {
     }
   }
 
-  const languageStats = Object.entries(languages).map(([lang, count]) => `${lang}: ${count}`).join('\n');
+  const languageIcons = Object.keys(languages).map(lang => `<img align="center" alt="${lang}" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/${lang.toLowerCase()}/${lang.toLowerCase()}-original.svg">`).join('\n');
 
   return {
     public_repos,
     followers,
     stars,
-    languageStats
+    languageIcons
   };
 };
 
@@ -46,7 +46,7 @@ Olá, eu sou Roberto Rondineli, desenvolvedor backend.
 
 ## Linguagens Utilizadas
 
-${stats.languageStats}
+${stats.languageIcons}
   `;
 
   fs.writeFileSync(path.join(__dirname, 'README.md'), readmeContent, 'utf8');
