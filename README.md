@@ -1,14 +1,14 @@
 
-# Opa, eu sou Roberto Rondineli, dev backend.
+# Hey, I'm Roberto Rondineli, backend dev🖖
 
-## 📊 Estatísticas do  meu GitHub
+## 📊 My GitHub Statistics
 
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertorondineli&theme=blueberry&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorondineli&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; width: 48%;" />
 </div>
 
-## 💻 Tecnologias que Utilizo
+## 💻 Technologies I Use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
