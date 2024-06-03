@@ -3,7 +3,7 @@
 
 Olá, eu sou Roberto Rondineli, desenvolvedor backend.
 
-## Estatísticas do GitHub
+## Estatísticas do  meu GitHub
 
 - **Repositórios Públicos:** 6
 - **Seguidores:** 0
