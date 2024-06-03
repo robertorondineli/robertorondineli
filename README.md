@@ -1,7 +1,5 @@
 
-# Meu Perfil no GitHub
-
-Olá, eu sou Roberto Rondineli, desenvolvedor backend.
+# Opa, eu sou Roberto Rondineli, dev backend.
 
 ## Estatísticas do  meu GitHub
 
