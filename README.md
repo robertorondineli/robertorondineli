@@ -3,13 +3,13 @@
 
 Olá, eu sou Roberto Rondineli, desenvolvedor backend.
 
-## Estatísticas do GitHub
+## Estatísticas do  meu GitHub
 
 - **Repositórios Públicos:** 6
 - **Seguidores:** 0
 - **Estrelas:** 0
 
-## Linguagens Utilizadas
+## Linguagens que Utilizo
 
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
