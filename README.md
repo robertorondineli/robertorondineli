@@ -2,9 +2,10 @@
 # Opa, eu sou Roberto Rondineli, dev backend.
 
 ## 📊 Estatísticas do  meu GitHub
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertorondineli&theme=blueberry&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorondineli&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertorondineli&theme=blueberry&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorondineli&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; width: 48%;" />
 </div>
 
 ## 💻 Tecnologias que Utilizo
